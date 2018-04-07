@@ -1,0 +1,41 @@
+h2 {
+	color: orange;
+	padding-left: 20px;
+ 	font-style: oblique;
+}
+
+.bg1 {
+	background:  #ddf3f0;
+	padding: 5px;
+	width: 80%;
+	position: relative;
+	left: 8%;
+	object-position: center;
+}
+
+.bg2 {
+	background: white;
+	border-radius: 30px;
+	padding: 2px;
+	bottom: 20px;
+	position: relative;
+}
+
+p {
+	padding-left: 20px;
+}
+
+.menu1 {
+	display: inline;
+	background: orange;
+	border-radius: 15px;
+	padding: 1px;
+	position: relative;
+	left: 90%;
+	bottom: 50px;
+}
+
+a {
+	padding: 10px;
+	color: purple;
+}
